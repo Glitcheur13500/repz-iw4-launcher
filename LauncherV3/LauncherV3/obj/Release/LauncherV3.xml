@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LauncherV3
+</name>
+</assembly>
+<members>
+<member name="P:LauncherV3.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LauncherV3.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LauncherV3.My.Resources.Resources._error">
+	<summary>
+  Looks up a localized string similar to &lt;body bgcolor="#000000"&gt;
+&lt;center&gt;
+
+&lt;font size="-3"&gt;
+&lt;pre&gt;&lt;font color=black&gt;omg-repz-and-aiw3-are-fucking-copycat-projects-.-omg-repz-and-aiw3-are&lt;/font&gt;&lt;br&gt;&lt;font color=black&gt;-fucking-copycat-projects-.-omg-repz-and-aiw3-are-fucking-copycat-proj&lt;/font&gt;&lt;br&gt;&lt;font color=black&gt;ects-.-omg-repz-and-aiw3-are-fucking-copycat-projects-.-omg-repz-an&lt;/font&gt;&lt;font color=#010101&gt;d-a&lt;/font&gt;&lt;br&gt;&lt;font color=black&gt;i&lt;/font&gt;&lt;font color=#040404&gt;w&lt;/font&gt;&lt;font color=#494949&gt;3&lt;/font&gt;&lt;font color=#a4a4a4&gt;-&lt;/font&gt;&lt;font color=#a5a5 [rest of string was truncated]";.
+</summary>
+</member><member name="P:LauncherV3.My.Resources.Resources.updt">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="T:LauncherV3.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:LauncherV3.DrawHelpers">
+	<summary>
+ LogIn GDI Theme
+ Creator: Xertz (HF)
+ Version: 1.0
+ Control Count: 24
+ Date Created: 23/12/2013
+ UID: 1602992
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

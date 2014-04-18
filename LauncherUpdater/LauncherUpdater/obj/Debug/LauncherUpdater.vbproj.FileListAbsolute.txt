@@ -1,0 +1,10 @@
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\bin\Debug\LauncherUpdater.exe.config
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\bin\Debug\LauncherUpdater.exe
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\bin\Debug\LauncherUpdater.pdb
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\bin\Debug\LauncherUpdater.xml
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\obj\Debug\LauncherUpdater.Form1.resources
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\obj\Debug\LauncherUpdater.Resources.resources
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\obj\Debug\LauncherUpdater.vbproj.GenerateResource.Cache
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\obj\Debug\LauncherUpdater.exe
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\obj\Debug\LauncherUpdater.xml
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\obj\Debug\LauncherUpdater.pdb

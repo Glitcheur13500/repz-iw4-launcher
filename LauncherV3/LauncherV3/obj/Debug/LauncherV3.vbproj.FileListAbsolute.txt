@@ -1,0 +1,13 @@
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\bin\Debug\LauncherV3.exe.config
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\obj\Debug\LauncherV3.vbprojResolveAssemblyReference.cache
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\obj\Debug\LauncherV3.RepzIW4.resources
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\obj\Debug\LauncherV3.Resources.resources
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\obj\Debug\LauncherV3.vbproj.GenerateResource.Cache
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\bin\Debug\LauncherV3.exe
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\bin\Debug\LauncherV3.pdb
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\bin\Debug\LauncherV3.xml
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\bin\Debug\Skybound.Gecko.dll
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\bin\Debug\Skybound.Gecko.xml
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\obj\Debug\LauncherV3.exe
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\obj\Debug\LauncherV3.xml
+c:\users\masteracc\documents\visual studio 2013\Projects\LauncherV3\LauncherV3\obj\Debug\LauncherV3.pdb

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LauncherV3
+</name>
+</assembly>
+<members>
+<member name="T:LauncherV3.DrawHelpers">
+	<summary>
+ LogIn GDI Theme
+ Creator: Xertz (HF)
+ Version: 1.0
+ Control Count: 24
+ Date Created: 23/12/2013
+ UID: 1602992
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:LauncherV3.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LauncherV3.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LauncherV3.My.Resources.Resources._error">
+	<summary>
+  Looks up a localized string similar to &lt;body bgcolor="#000000"&gt;
+&lt;!-- IMAGE BEGINS HERE --&gt;
+&lt;font size="-3"&gt;
+&lt;pre&gt;&lt;font color=black&gt;RepzIW4 launcher site is DOWN. Please try launching game w&lt;/font&gt;&lt;font color=#010101&gt;i&lt;/font&gt;&lt;font color=black&gt;th this lau&lt;/font&gt;&lt;font color=#060606&gt;nc&lt;/font&gt;&lt;font color=#080808&gt;h&lt;/font&gt;&lt;font color=#070707&gt;e&lt;/font&gt;&lt;font color=black&gt;r&lt;/font&gt;&lt;font color=#010101&gt; &lt;/font&gt;&lt;font color=black&gt;a&lt;/font&gt;&lt;font color=#0c0c0c&gt;n&lt;/font&gt;&lt;font color=#4b4b4b&gt;d&lt;/font&gt;&lt;font color=#b8bbb8&gt; &lt;/font&gt;&lt;font color=#f6f9f6&gt;a&lt;/font&gt;&lt;font color [rest of string was truncated]";.
+</summary>
+</member><member name="T:LauncherV3.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
