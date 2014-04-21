@@ -1,4 +1,4 @@
 repz-iw4-launcher
 =================
 
-RepzIW4 Launcher by kch233. 
+*awesome* alternative launcher for RepzIW4M.
