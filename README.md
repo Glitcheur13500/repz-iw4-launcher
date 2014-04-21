@@ -1,4 +1,4 @@
 repz-iw4-launcher
 =================
 
-*awesome* alternative launcher for RepzIW4M.
+An *awesome* alternative launcher for RepzIW4M.
