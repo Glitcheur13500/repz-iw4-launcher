@@ -22,3 +22,14 @@ C:\Users\MasterACC\Documents\Visual Studio 2013\Projects\LauncherV3_release\Laun
 C:\Users\MasterACC\Documents\Visual Studio 2013\Projects\LauncherV3_release\LauncherV3\obj\Release\LauncherV3.RepzIW4.resources
 C:\Users\MasterACC\Documents\Visual Studio 2013\Projects\LauncherV3_release\LauncherV3\obj\Release\LauncherV3.Resources.resources
 C:\Users\MasterACC\Documents\Visual Studio 2013\Projects\LauncherV3_release\LauncherV3\obj\Release\LauncherV3.vbproj.GenerateResource.Cache
+C:\Users\MasterACC\Desktop\Projekty vb.net i nie tylko\Github\repz-iw4-launcher\LauncherV3\LauncherV3\bin\Release\LauncherV3.exe.config
+C:\Users\MasterACC\Desktop\Projekty vb.net i nie tylko\Github\repz-iw4-launcher\LauncherV3\LauncherV3\obj\Release\LauncherV3.exe
+C:\Users\MasterACC\Desktop\Projekty vb.net i nie tylko\Github\repz-iw4-launcher\LauncherV3\LauncherV3\obj\Release\LauncherV3.xml
+C:\Users\MasterACC\Desktop\Projekty vb.net i nie tylko\Github\repz-iw4-launcher\LauncherV3\LauncherV3\obj\Release\LauncherV3.pdb
+C:\Users\MasterACC\Desktop\Projekty vb.net i nie tylko\Github\repz-iw4-launcher\LauncherV3\LauncherV3\bin\Release\LauncherV3.exe
+C:\Users\MasterACC\Desktop\Projekty vb.net i nie tylko\Github\repz-iw4-launcher\LauncherV3\LauncherV3\bin\Release\LauncherV3.pdb
+C:\Users\MasterACC\Desktop\Projekty vb.net i nie tylko\Github\repz-iw4-launcher\LauncherV3\LauncherV3\bin\Release\LauncherV3.xml
+C:\Users\MasterACC\Desktop\Projekty vb.net i nie tylko\Github\repz-iw4-launcher\LauncherV3\LauncherV3\obj\Release\LauncherV3.vbprojResolveAssemblyReference.cache
+C:\Users\MasterACC\Desktop\Projekty vb.net i nie tylko\Github\repz-iw4-launcher\LauncherV3\LauncherV3\obj\Release\LauncherV3.RepzIW4.resources
+C:\Users\MasterACC\Desktop\Projekty vb.net i nie tylko\Github\repz-iw4-launcher\LauncherV3\LauncherV3\obj\Release\LauncherV3.Resources.resources
+C:\Users\MasterACC\Desktop\Projekty vb.net i nie tylko\Github\repz-iw4-launcher\LauncherV3\LauncherV3\obj\Release\LauncherV3.vbproj.GenerateResource.Cache

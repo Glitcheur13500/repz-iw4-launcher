@@ -9,3 +9,7 @@ c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\Launche
 c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\obj\Release\LauncherUpdater.xml
 c:\users\masteracc\documents\visual studio 2013\Projects\LauncherUpdater\LauncherUpdater\obj\Release\LauncherUpdater.pdb
 C:\Users\MasterACC\Documents\Visual Studio 2013\Projects\LauncherUpdater\LauncherUpdater\obj\Release\LauncherUpdater.FuckYou.resources
+C:\Users\MasterACC\Desktop\Github\repz-iw4-launcher\LauncherUpdater\LauncherUpdater\bin\Release\LauncherUpdater.exe.config
+C:\Users\MasterACC\Desktop\Github\repz-iw4-launcher\LauncherUpdater\LauncherUpdater\obj\Release\LauncherUpdater.exe
+C:\Users\MasterACC\Desktop\Github\repz-iw4-launcher\LauncherUpdater\LauncherUpdater\obj\Release\LauncherUpdater.xml
+C:\Users\MasterACC\Desktop\Github\repz-iw4-launcher\LauncherUpdater\LauncherUpdater\obj\Release\LauncherUpdater.pdb
